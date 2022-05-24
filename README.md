@@ -12,23 +12,25 @@
 
 <div align = center>
 
+## The Configurator
+
 <img
     title = 'The Recipes Overview'
     width = 150
     src = 'Resources/Configurator/Recipes.png'
 />
 <img
-    title = 'The Recipes Overview'
+    title = 'The Spices Overview'
     width = 150
     src = 'Resources/Configurator/Spices.png'
 />
 <img
-    title = 'The Recipes Overview'
+    title = 'The Recipe Editor'
     width = 150
     src = 'Resources/Configurator/Editor.png'
 />
 <img
-    title = 'The Recipes Overview'
+    title = 'A Recipe Being Edited'
     width = 150
     src = 'Resources/Configurator/Recipe.png'
 />
