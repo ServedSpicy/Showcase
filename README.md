@@ -1,6 +1,3 @@
-
-[![Badge License]][License]
-
 <div align = center>
 
 # Ｓｅｒｖｅｄ Ｓｐｉｃｙ
@@ -39,10 +36,3 @@
 
 <!--   🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶  🌶   -->
 
-[License]: LICENSE
-
-
-
-<!--   🌶  🌶  🌶  🌶  🌶  🌶  🌶    Buttons   🌶  🌶  🌶  🌶  🌶  🌶  🌶   -->
-
-[Badge License]: https://img.shields.io/badge/License-AGPL_v3-blue.svg?style=for-the-badge
